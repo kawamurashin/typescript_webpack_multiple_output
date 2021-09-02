@@ -20090,7 +20090,7 @@ var __webpack_exports__ = {};
 /*!****************************!*\
   !*** ./src/server/main.ts ***!
   \****************************/
-const port = 11003;
+const port = 11005;
 const express = __webpack_require__(/*! express */ "./node_modules/express/index.js");
 const app = express();
 app.use(express.static('dist/public'));
